@@ -30,9 +30,6 @@ It simulates basic banking operations with persistent data storage in CSV files.
 - Updates continuously as operations are performed  
 - Includes a **clear function** for user-friendly interaction  
 
-### 📸 Example Screenshots
-*(Add screenshots of your program running here later)*
-
 ### 🙌 Acknowledgment
 Developed as part of my **Mechatronics Engineering coursework**.  
 Demonstrates practical application of **OOP** and **Data Structures** in real-world scenarios.
