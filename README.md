@@ -7,7 +7,7 @@ It simulates basic banking operations with persistent data storage in CSV files.
 ### ⚙️ Features
 - Create a new account  
 - Check account details  
-- Update account information (e.g., change name)  
+- Update account information (e.g., change name) 
 - Deposit cash  
 - Withdraw cash  
 - Delete account  
