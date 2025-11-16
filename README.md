@@ -24,9 +24,17 @@ It simulates basic banking operations with persistent data storage in CSV files.
   - `.gitignore` → ignored files configuration  
   - `.gitattributes` → repository attributes  
 
+### 📂 Folder Structure
+
+
 ### 🚀 How It Works
 - Program reads all data at runtime from `Accounts.csv`  
 - Updates continuously as operations are performed  
 - Includes a **clear function** for user-friendly interaction  
 
-### 📂 Folder Structure
+### 📸 Example Screenshots
+*(Add screenshots of your program running here in `/docs/screenshots/`)*
+
+### 🙌 Acknowledgment
+Developed as part of my **Mechatronics Engineering coursework**.  
+Demonstrates practical application of **OOP** and **Data Structures** in real-world scenarios.
