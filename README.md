@@ -19,13 +19,11 @@ It simulates basic banking operations with persistent data storage in CSV files.
 - Language: **C++**  
 - Data Structure: **Doubly Linked List**  
 - Files:
-  - `src/Code.cpp` → main program source code  
-  - `data/Accounts.csv` → stores account records  
+  - `Code.cpp` → main program source code  
+  - `Accounts.csv` → stores account records  
   - `.gitignore` → ignored files configuration  
   - `.gitattributes` → repository attributes  
-
-### 📂 Folder Structure
-
+  - `README.md` → project documentation  
 
 ### 🚀 How It Works
 - Program reads all data at runtime from `Accounts.csv`  
@@ -33,7 +31,7 @@ It simulates basic banking operations with persistent data storage in CSV files.
 - Includes a **clear function** for user-friendly interaction  
 
 ### 📸 Example Screenshots
-*(Add screenshots of your program running here in `/docs/screenshots/`)*
+*(Add screenshots of your program running here later)*
 
 ### 🙌 Acknowledgment
 Developed as part of my **Mechatronics Engineering coursework**.  
